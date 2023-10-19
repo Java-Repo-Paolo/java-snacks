@@ -27,5 +27,7 @@ public class Snack1 {
 
         }
 
+        scan.close();
+
     }
 }
